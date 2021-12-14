@@ -4,7 +4,7 @@ function friut(apple) {
     return 20 - apple;
 }
 const calu = friut(5)
-
+// This is called the Expresention function;
 const calu2 = function (age) {
     return 2025 - age;
 }

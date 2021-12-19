@@ -1,4 +1,3 @@
-
 const bills = new Array(125, 555, 44);
 const bill = bills[1];
 const tip1 = (bills[1] / 100) * 20;

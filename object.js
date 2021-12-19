@@ -5,7 +5,7 @@ const array = [
     ["Ali Raza", "Rehan", "Muzzammil"],
     1999 - 2021,
     "Student"
-]
+];
 console.log(typeof array);
 console.log(array);
 
